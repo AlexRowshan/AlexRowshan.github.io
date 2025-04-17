@@ -203,7 +203,6 @@ function animateOrbit() {
     }
 }
 
-// Initialize cosmic animations
 document.addEventListener('DOMContentLoaded', function() {
     createStars();
     animateShootingStars();
